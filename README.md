@@ -4,7 +4,7 @@
 * 문제 난이도는 [Solved.ac](https://solved.ac/guideline)를 참조합니다.
 * 해당 레포의 커밋 메시지는 [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)를 따릅니다.
 
-## Contentts
+## Contents
 #### 1회차 (2025.04.18.금요일)
 - 문제명: [Puyo Puyo](https://www.acmicpc.net/problem/11559)
 - 문제 난이도: 골드4
